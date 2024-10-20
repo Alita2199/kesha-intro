@@ -1,15 +1,14 @@
 # Hi 👋, I'm Kesha
-**www.kesha.dev**
 
-A passionate full-stack developer from India.
-
-📫 How to reach me: [kesha.dev@gmail.com](mailto:kesha.dev@gmail.com)  
+A passionate full-stack developer from India. You can reach me at keshabhatt2199@gmail.com.
+📫 How to reach me: [Email Me](mailto:keshabhatt2199@gmail.com)
 ⚡ Fun fact: I love solving complex coding problems and building innovative solutions!
 
 ## Languages and Tools:
 - Java
 - Python
 - MySQL
+- REST API
 - MongoDB
 - JavaScript
 - React.js
